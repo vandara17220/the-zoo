@@ -10,7 +10,7 @@
 	 <a href="file:///C:/Users/Bharadwaj/Desktop/images.html"><I>Image Gallery</a>
 	 <a href="file:///C:/Users/Bharadwaj/Desktop/visitor%20info.html"><I>Visitor Info</a>
 	 <a href="file:///C:/Users/Bharadwaj/Desktop/Membership.html"><I>Member Ship</a>
-	 <a href="file:///C:/Users/Bharadwaj/Desktop/Jobs.html"><I>Jobs</a>
+	 <a href="the-zoo/Jobs.html"><I>Jobs</a>
 	 <a href="file:///C:/Users/Bharadwaj/Desktop/contact.html"><I>Contact Us</a>
      <h3>HOME | Image Gallery | Visitor Info | Member Ship | Jobs | Contact Us</h3>
 	 <h4> SCHOOL FIELD TRIPS:
