@@ -1,2 +1,2 @@
-# http://the-zoo.github.io
+# the-zoo
 my zoo website
